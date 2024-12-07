@@ -5,11 +5,12 @@ Lista zadań do zrobienia na zaliczenie przedmiotu
 - REVC - Complementing a Strand of DNA *(zrobione)*
 - HAMM - Counting Point Mutations *(zrobione)*
 - PROT - Translating RNA into Protein *(zrobione)*
-- SUBS - Finding a Motif in DNA *(poprawić)*
+- SUBS - Finding a Motif in DNA *(zrobione)*
 - LCSM - Finding a Shared Motif *(poprawić)*
 - PERM - Enumerating Gene Orders *(poprawić)*
 - SPLC - RNA Splicing *(zrobione)*
 - SSEQ - Finding a Spliced Motif *(zrobione)*
+  
 - LCSQ - Finding a Shared Spliced Motif
 - EDIT - Edit Distance
 - EDTA - Edit Distance Alignment
